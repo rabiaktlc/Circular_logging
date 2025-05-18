@@ -1,0 +1,8 @@
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/CircularLogging.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/test_CircularLogger.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/CircularLogging_autogen_timestamp_deps.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/CircularLogging_autogen.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/test_CircularLogger_autogen_timestamp_deps.dir
+C:/Users/rabia/Documents/CircularLogging/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/test_CircularLogger_autogen.dir

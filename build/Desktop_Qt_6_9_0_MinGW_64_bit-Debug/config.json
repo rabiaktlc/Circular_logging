@@ -1,0 +1,6 @@
+{
+    "logType": "daily",
+    "maxFiles": 7,
+    "frequency": 1,
+    "logDir": "logs"
+}
