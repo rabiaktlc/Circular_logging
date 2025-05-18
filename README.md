@@ -19,8 +19,8 @@ To build and run CircularLogging, you need:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/CircularLogging.git
-   cd CircularLogging
+   git clone https://github.com/rabiaktlc/Circular_logging
+   cd Circular_logging
    ```
 
 2. **Create a Build Directory**:
@@ -57,7 +57,7 @@ To build and run CircularLogging, you need:
 
 2. **Run the Application**:
    ```bash
-   ./CircularLogging
+   ./Circular_logging
    ```
    The application logs messages every 2 seconds (e.g., "Test log message #1") to files in the `logs` directory. Log files are named based on `logType`, e.g., `log_2025-05-18_12-34-56.txt` for `Secondly`.
 
@@ -100,7 +100,7 @@ The project includes unit tests to validate the `CircularLogger` class, implemen
 
 ## Project Structure
 ```
-CircularLogging/
+Circular_logging/
 ├── CMakeLists.txt        # CMake configuration file
 ├── main.cpp              # Main application entry point
 ├── CircularLogger.h      # Logger class header
@@ -111,24 +111,4 @@ CircularLogging/
 ├── README.md             # Project documentation
 ```
 
-## Troubleshooting
-- **Config File Missing**: Ensure `config.json` exists in the build directory. See the sample above.
-- **Log Files Not Created**: Verify that `logDir` is writable and `config.json` is valid. Check console for `qWarning()` messages.
-- **Test Failures**: Run tests with verbose output (`./test_CircularLogger -v`) to debug failures.
-- **Build Issues**: Ensure Qt 6.9.0 and CMake are correctly installed. Check CMake output for errors.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Please include tests for new features and follow the existing coding style.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or feedback, open an issue on GitHub or contact [your email or preferred contact method].
